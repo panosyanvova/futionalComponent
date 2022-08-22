@@ -1,0 +1,12 @@
+.postsText{
+    width: 25vw;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 8px;
+}
+.postsBody{
+    display: grid;
+    padding: 25px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 25px;
+}

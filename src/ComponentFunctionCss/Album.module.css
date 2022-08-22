@@ -1,0 +1,13 @@
+.albumCont{
+    display: grid;
+    padding: 15px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 25px;
+}
+.albumTitle{
+    width: 20vw;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
